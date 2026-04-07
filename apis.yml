@@ -1,7 +1,12 @@
 aid: big-heart-pet-brands
-url: https://raw.githubusercontent.com/api-evangelist/big-heart-pet-brands/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/big-heart-pet-brands/refs/heads/main/apis.yml
 modified: '2026-03-23'
 apis: []
 common:
   - type: Website
     url: https://www.big-heart-pet-brands.com
+description: >-
+  Big Heart Pet Brands is a producer and marketer of branded pet food and snacks,
+  with brands including Meow Mix, Milk-Bone, Kibbles 'n Bits, 9Lives, Natural Balance,
+  Pup-Peroni, Gravy Train, Nature's Recipe, Canine Carry Outs, and Milo's Kitchen.
