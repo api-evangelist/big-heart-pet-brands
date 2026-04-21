@@ -1,11 +1,27 @@
-# Big Heart Pet Brands
+# Big Heart Pet Brands (big-heart-pet-brands)
+Big Heart Pet Brands was a producer and marketer of branded pet food and snacks with brands including Meow Mix, Milk-Bone, Kibbles 'n Bits, 9Lives, Natural Balance, Pup-Peroni, Gravy Train, Nature's Recipe, Canine Carry Outs, and Milo's Kitchen. Big Heart Pet Brands was acquired by The J.M. Smucker Company in 2015 and no longer operates as an independent entity.
 
-This is a repository for tracking the APIs, SDKs, and other developer resources for Big Heart Pet Brands.
+**URL:** [https://www.bigheartpet.com](https://www.bigheartpet.com)
+
+## Tags:
+
+ - Pet Food, Consumer Goods, Retail, Acquired
+
+## Timestamps
+
+- **Created:** 2025-01-01
+- **Modified:** 2026-04-19
 
 ## APIs
 
-No APIs have been documented yet. Check back for updates.
+No public APIs have been documented for Big Heart Pet Brands. The company was acquired by The J.M. Smucker Company in 2015.
 
-## Properties
+## Common Properties
 
-- [Website](https://www.big-heart-pet-brands.com)
+- [Website](https://www.bigheartpet.com)
+
+## Maintainers
+
+**FN:** Kin Lane
+
+**Email:** kin@apievangelist.com
