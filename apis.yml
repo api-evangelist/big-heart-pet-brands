@@ -8,7 +8,18 @@ description: >-
   Company in 2015 and no longer operates as an independent entity. All brands
   are now managed under J.M. Smucker's Pet Foods division.
 type: Index
-image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/big-heart-pet-brands.png
 tags:
   - Pet Food
   - Consumer Goods
