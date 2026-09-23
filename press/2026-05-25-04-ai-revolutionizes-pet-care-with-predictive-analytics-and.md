@@ -1,7 +1,9 @@
 ---
 title: AI Revolutionizes Pet Care with Predictive Analytics and ...
 url: https://www.linkedin.com/posts/the-trend-axis-analytics_pettech-aiinhealthcare-marketresearch-activity-7457722811437031424-ymmF
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Big Heart Pet Brands" press release artificial intelligence'
 position: 4
 source: serpapi-google

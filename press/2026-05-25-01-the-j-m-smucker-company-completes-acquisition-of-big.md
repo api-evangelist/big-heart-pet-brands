@@ -1,7 +1,9 @@
 ---
 title: The J. M. Smucker Company Completes Acquisition of Big ...
 url: https://www.prnewswire.com/news-releases/the-j-m-smucker-company-completes-acquisition-of-big-heart-pet-brands-300054566.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Big Heart Pet Brands" press release artificial intelligence'
 position: 1
 source: serpapi-google
