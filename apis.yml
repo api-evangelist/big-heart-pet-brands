@@ -37,6 +37,13 @@ tags:
   - Retail
   - Acquired
   - Pet Snacks
+  - Consumer Packaged Goods
+tags_raw:
+  - Pet Food
+  - Consumer Goods
+  - Retail
+  - Acquired
+  - Pet Snacks
   - CPG
 url: >-
   https://raw.githubusercontent.com/api-evangelist/big-heart-pet-brands/refs/heads/main/apis.yml
